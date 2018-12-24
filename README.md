@@ -22,11 +22,11 @@
     </tr>
     <tr>
       <td><code>gulp</code></td>
-      <td>run the build, server and tracking files.</td>
+      <td>Run the build, server and tracking files.</td>
     </tr>
     <tr>
       <td><code>gulp build</code></td>
-      <td>run the build for production</td>
+      <td>Run the build for production</td>
     </tr>
     <tr>
       <td><code>gulp clean</code></td>
